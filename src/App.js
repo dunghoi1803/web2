@@ -1,4 +1,3 @@
-import "./App.css";
 import run from "./renderer";
 
 function App() {
